@@ -1,2 +1,3 @@
-###Homework1
-install WebStorm & setup repository
+### Homework #1
+
+Description:
