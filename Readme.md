@@ -1,3 +1,3 @@
-### Homework #
+### Homework #1
 
-Description:
+Description:First dialogue functions
