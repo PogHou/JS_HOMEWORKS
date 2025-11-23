@@ -1,9 +1,9 @@
-.idea
-node_modules
-.vs_code
-.DStore
-classwork
-.git
+.idea/
+node_modules/
+.vs_code/
+.DStore/
+classwork/
+.git/
 .prettierrc
 eslint.config.mjs
 package.json
