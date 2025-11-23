@@ -1,3 +1,3 @@
-### Homework #
+### Homework #2
 
-Description:
+Description: first if...else (in the dialoge functions)
