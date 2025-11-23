@@ -8,3 +8,4 @@ classwork/
 eslint.config.mjs
 package.json
 package-lock.json
+jest.config.cjs

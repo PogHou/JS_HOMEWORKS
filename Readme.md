@@ -1,3 +1,3 @@
-### Homework #1
+### Homework #
 
 Description:
