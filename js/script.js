@@ -1,7 +1,8 @@
 "use strict";
-const userName = prompt(
-  "Type your name, amigo, and press OK to see the greeting?",
-);
+const userName = prompt("Type your name, amigo");
 if (userName) {
-  alert(`Welcome, ${userName}, pleased to see you`);
+  const greet = confirm("press OK to see the greeting");
+  if (greet) {
+    alert(`Welcome, ${userName}, pleased to see you`);
+  }
 }
