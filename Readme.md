@@ -1,3 +1,3 @@
-### Homework #
+### Homework #4
 
-Description:
+Description:if/else training to calculate discount in a shop
