@@ -14,13 +14,7 @@ if (jsAnswer.toLowerCase() === "yes") {
   lovesJS = false;
 }
 
-let userAttitude;
-
-if (lovesJS) {
-  userAttitude = "Absolutely loves JS";
-} else {
-  userAttitude = "Can't stand JS";
-}
+const userAttitude = lovesJS ? "Absolutely loves JS" : "Can't stand JS";
 
 alert(`Ola, ${userName}! You are ${age}, you are from ${userCity} city. 
 Attitude to JavaScript: ${userAttitude}.`);
