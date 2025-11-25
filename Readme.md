@@ -1,3 +1,3 @@
-### Homework #
+### Homework #6
 
-Description:
+Description: if-else, LowerCase, alert with templates
