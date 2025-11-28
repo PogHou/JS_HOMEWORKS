@@ -1,3 +1,3 @@
-### Homework #
+### Homework #8
 
-Description:
+Description:working with arrays
