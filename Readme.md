@@ -1,3 +1,3 @@
-### Homework #
+### Homework #7
 
-Description:
+Description: learnt difference between Number, parseInt, parseFloat
